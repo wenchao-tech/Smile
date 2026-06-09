@@ -89,4 +89,4 @@ bash test.sh
 
 
 ### Acknowledgements
-We appreciate the data and code provided by [AWRaCLe](https://github.com/sudraj2002/AWRaCLe)!
+We appreciate the data and code provided by [AWRaCLe](https://github.com/sudraj2002/AWRaCLe)! We thank the authors for sharing the code!
