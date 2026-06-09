@@ -1,0 +1,21 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+pytorch-lightning==1.6.5
+torch==1.8.1+cu111
+torchvision==0.9.1+cu111
+torchaudio==0.8.1
+git+https://github.com/openai/CLIP.git
+einops==0.7.0
+opencv-python==4.9.0.80
+numpy==1.24.4
+scipy==1.10.1
+torchvision==0.9.1
+matplotlib==3.7.4
+pillow==10.2.0
+scikit-image==0.21.0
+scikit-video==1.1.11
+wandb==0.16.2
+tqdm==4.66.1
+natsort
+lpips
+torch-fidelity
+torchmetrics==0.11.4
